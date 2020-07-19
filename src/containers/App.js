@@ -4,7 +4,7 @@ import React from 'react';
 import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import './App.css';
-import Scroll from '../components/Scroll';
+// import Scroll from '../components/Scroll';
 
 // create state in order to interact between "robots" and "SearchBox"; have to pass between the parent (App.js)
 // const state = {
@@ -51,9 +51,9 @@ class App extends React.Component {
             <div className='tc'>
                 <h1 className="f2">Current Porfolio Skills</h1>
                 <SearchBox searchChange={this.onSearchChange} />
-                <Scroll>
-                    <CardList robots={filteredRobots} />
-                </Scroll>
+                {/* <Scroll> */}
+                <CardList robots={filteredRobots} />
+                {/* </Scroll> */}
             </div >
         );
     }
