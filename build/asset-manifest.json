@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ffc896e.chunk.css",
-    "main.js": "/static/js/main.b0106d21.chunk.js",
-    "main.js.map": "/static/js/main.b0106d21.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.180b3c65.js",
-    "runtime-main.js.map": "/static/js/runtime-main.180b3c65.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.71510972.chunk.js": "/static/js/2.71510972.chunk.js",
-    "static/js/2.71510972.chunk.js.map": "/static/js/2.71510972.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f982fefc16b8cbfb0e4d1e0954a69cac.js": "/precache-manifest.f982fefc16b8cbfb0e4d1e0954a69cac.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.9ffc896e.chunk.css.map": "/static/css/main.9ffc896e.chunk.css.map",
-    "static/js/2.71510972.chunk.js.LICENSE.txt": "/static/js/2.71510972.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/Capriola-Regular.7bd16cc6.woff"
+    "main.css": "/portfolioskills/static/css/main.5fffb87e.chunk.css",
+    "main.js": "/portfolioskills/static/js/main.26e7ce77.chunk.js",
+    "main.js.map": "/portfolioskills/static/js/main.26e7ce77.chunk.js.map",
+    "runtime-main.js": "/portfolioskills/static/js/runtime-main.c5a8371f.js",
+    "runtime-main.js.map": "/portfolioskills/static/js/runtime-main.c5a8371f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/portfolioskills/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.71510972.chunk.js": "/portfolioskills/static/js/2.71510972.chunk.js",
+    "static/js/2.71510972.chunk.js.map": "/portfolioskills/static/js/2.71510972.chunk.js.map",
+    "index.html": "/portfolioskills/index.html",
+    "precache-manifest.1043a7bb1abb2deb8b0fb345566c245f.js": "/portfolioskills/precache-manifest.1043a7bb1abb2deb8b0fb345566c245f.js",
+    "service-worker.js": "/portfolioskills/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/portfolioskills/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5fffb87e.chunk.css.map": "/portfolioskills/static/css/main.5fffb87e.chunk.css.map",
+    "static/js/2.71510972.chunk.js.LICENSE.txt": "/portfolioskills/static/js/2.71510972.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/portfolioskills/static/media/Capriola-Regular.7bd16cc6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.180b3c65.js",
+    "static/js/runtime-main.c5a8371f.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.71510972.chunk.js",
-    "static/css/main.9ffc896e.chunk.css",
-    "static/js/main.b0106d21.chunk.js"
+    "static/css/main.5fffb87e.chunk.css",
+    "static/js/main.26e7ce77.chunk.js"
   ]
 }
